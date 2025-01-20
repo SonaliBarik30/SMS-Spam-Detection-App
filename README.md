@@ -40,3 +40,10 @@ Web Deployment :-
 
 
 The model was deployed on the web using Streamlit. The user interface has a simple input box where the user can input a message, and the model will predict whether it is spam or not spam.
+
+
+____________________________
+Demo :-
+
+
+To try out the SMS Spam Detection model, visit 
